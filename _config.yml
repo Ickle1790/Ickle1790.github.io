@@ -1,7 +1,7 @@
 # Basic site settings (edit these first)
 title: "Portfolio" # Site title shown in the browser and header
 title_separator: "-"
-subtitle: "Testing 1212" # site tagline that appears below site title in masthead
+subtitle: # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
 name: "Therese Charles"
 url: "Ickle1790.github.io" # Your GitHub Pages domain
