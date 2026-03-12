@@ -6,10 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/placeholder.png
-  actions:
-    - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
-      target: "_blank"
 
 
 excerpt: "The gateway to all other pages"
@@ -24,9 +20,10 @@ feature_row:
     alt: "My Projects"
     title: "My Projects"
     excerpt: "View previous games I have created."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    actions:
+    - label: "Download CV"
+      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      target: "_blank"
   - image_path: /assets/images/placeholderfavicon.png
     alt: "My Contact Information"
     title: "My Contact Information"
