@@ -24,9 +24,6 @@ feature_row:
     alt: "My Projects"
     title: "My Projects"
     excerpt: "View previous games I have created."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary" 
   - image_path: /assets/images/placeholderfavicon.png
     alt: "My Contact Information"
     title: "My Contact Information"
