@@ -1,7 +1,7 @@
 ---
-title: "Page Title"
+title: "Home Page"
 layout: splash
-permalink: /
+permalink: /home-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -12,24 +12,24 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "The gateway to all other pages"
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'In this site, you may read about:'
 feature_row:
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/placeholderfavicon.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "About Me"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/placeholderfavicon.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "My Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/placeholderfavicon.png
     alt: "placeholder image 4"
-    title: "Placeholder 3"
+    title: "My Contact Information"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
