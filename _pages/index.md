@@ -17,18 +17,18 @@ intro:
   - excerpt: 'In this site, you may read about:'
 feature_row:
   - image_path: /assets/images/placeholderfavicon.png
-    alt: "placeholder image 1"
+    alt: "About Me"
     title: "About Me"
     excerpt: "Read about my education, location and more."
   - image_path: /assets/images/placeholderfavicon.png
-    alt: "placeholder image 2"
+    alt: "My Projects"
     title: "My Projects"
     excerpt: "View previous games I have created."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholderfavicon.png
-    alt: "placeholder image 4"
+    alt: "My Contact Information"
     title: "My Contact Information"
     excerpt: "Learn the best ways to reach out to me."
 ---
