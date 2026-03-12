@@ -19,18 +19,18 @@ feature_row:
   - image_path: /assets/images/placeholderfavicon.png
     alt: "placeholder image 1"
     title: "About Me"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Read about my education, location and more."
   - image_path: /assets/images/placeholderfavicon.png
     alt: "placeholder image 2"
     title: "My Projects"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "View previous games I have created."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholderfavicon.png
     alt: "placeholder image 4"
     title: "My Contact Information"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Learn the best ways to reach out to me."
 ---
 
 {% include feature_row id="intro" type="center" %}
