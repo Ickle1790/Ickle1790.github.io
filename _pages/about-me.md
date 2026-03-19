@@ -11,16 +11,15 @@ header:
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
 skills:
-    - color: "#FF8FF1"
-      name: "Unity"
+    - name: "Unity"
       icon: "fab fa-fw fa-unity"
       badges: ["C#", "Game Dev"]
-      text: "Built multiple prototypes, and currently working on another."
+      text: "Built multiple game prototypes; currently working on another within a group."
       level_label: "Beginner"
     - name: "Game Design"
       icon: "fas fa-fw fa-gamepad"
       badges: ["Game Mechanics", "Levels", "UI"]
-      text: "Designed mechanics, levels, and player feedback loops."
+      text: "Designed game mechanics, levels, and player feedback loops."
       level_label: "Beginner"
 ---
 
