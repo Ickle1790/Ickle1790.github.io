@@ -12,4 +12,8 @@ header:
       target: "_blank"
 ---
 
+About me about me about me
+
 {% include figure image_path="/assets/images/placeholderfavicon.png" alt="Game Jam screenshot" caption="This is a caption" %}
+
+{% include skills skills=page.skills %}
