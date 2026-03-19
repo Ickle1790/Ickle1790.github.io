@@ -12,4 +12,4 @@ header:
       target: "_blank"
 ---
 
-{% include figure image_path="/assets/images/placeholderfavicon.png" alt="Game Jam screenshot" size=1" caption="This is a caption" %}
+{% include figure image_path="/assets/images/placeholderfavicon.png" alt="Game Jam screenshot" caption="This is a caption" %}
