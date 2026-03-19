@@ -8,4 +8,4 @@ header:
   overlay_image: /assets/images/placeholder.png
 ---
 
-So the first night is never usually that bad in any of the games so
+{% include figure image_path="/assets/images/placeholderfavicon.png" alt="Game Jam screenshot" caption="This is a caption" %}
