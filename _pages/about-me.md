@@ -16,7 +16,7 @@ skills:
       badges: ["C#", "Game Dev"]
       text: "Built multiple prototypes, and currently working on another."
       level_label: "Beginner"
-      color: "FF8FF1"
+      overlay_color: "FF8FF1"
     - name: "Game Design"
       icon: "fas fa-fw fa-gamepad"
       badges: ["Game Mechanics", "Levels", "UI"]
