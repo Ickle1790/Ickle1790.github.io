@@ -10,9 +10,7 @@ header:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
-      
 skills:
-  color: "FF8FF1"
     - name: "Unity"
       icon: "fab fa-fw fa-unity"
       badges: ["C#", "Game Dev"]
