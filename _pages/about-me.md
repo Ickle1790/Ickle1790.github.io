@@ -11,11 +11,12 @@ header:
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
 skills:
+  overlay_color: "FF8FF1"
     - name: "Unity"
       icon: "fab fa-fw fa-unity"
       badges: ["C#", "Game Dev"]
-      text: "Built multiple prototypes and a published jam game."
-      years: 2
+      text: "Built multiple prototypes, and currently working on another."
+      level_label: "Beginner"
     - name: "Game Design"
       icon: "fas fa-fw fa-gamepad"
       badges: ["Game Mechanics", "Levels", "UI"]
