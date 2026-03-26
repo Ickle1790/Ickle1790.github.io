@@ -7,12 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/placeholder.png
 skills:
-    - name: "Unity"
+    - name: "Discord"
       icon: "fab fa-fw fa-unity"
-      text: ""
-    - name: "Game Design"
+      text: "Placeholder-Account-Name"
+    - name: "X"
       icon: "fas fa-fw fa-gamepad"
-      text: ""
+      text: "Placeholder-Account-Name"
 ---
 
 {% include google-form
