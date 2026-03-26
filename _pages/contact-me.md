@@ -10,6 +10,6 @@ header:
 
 {% include google-form
   title="Contact Me"
-  src="https://docs.google.com/forms/d/e/1FAIpQLScINzN8FN1gvd8fDc9y_Wu9ybobY7q8dSSmUBdx5OB8xsKoyQ/viewform?usp=publish-editor"
+  src="https://forms.gle/VGw65LWmLXH2rp7o6"
   height="800"
 %}
