@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/placeholder.png
   actions:
     - label: "Download CV"
-      url: "file:///D:/B01032576%20-%20Finn%20Donnelly/CRE136%20-%20Professional%20Game%20Development/My%20CV%20Demos/Prototype%202%20(No%20Details).pdf.cleaned.pdf"
+      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
 skills:
     - name: "Unity"
