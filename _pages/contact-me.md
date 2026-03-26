@@ -8,10 +8,10 @@ header:
   overlay_image: /assets/images/placeholder.png
 skills:
     - name: "Discord"
-      icon: "fab fa-fw fa-unity"
+      icon: "fab fa-fw fa-discord"
       text: "Placeholder-Account-Name"
-    - name: "X"
-      icon: "fas fa-fw fa-gamepad"
+    - name: "Twitter/X"
+      icon: "fas fa-fw fa-twitter"
       text: "Placeholder-Account-Name"
 ---
 
