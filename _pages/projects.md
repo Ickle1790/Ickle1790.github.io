@@ -11,7 +11,7 @@ header:
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
 
-excerpt: "View all my previous projects here"
+excerpt: "View previous games I have created."
 ---
 
 Welcome to the projects page. This is where you can list your game projects.
