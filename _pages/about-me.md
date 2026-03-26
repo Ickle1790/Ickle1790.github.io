@@ -25,6 +25,6 @@ skills:
 
 About me about me about me
 
-{% include figure image_path="/assets/images/placeholderfavicon.png" width="40" height="40" alt="Game Jam screenshot" caption="This is a caption" %}
+{% include figure image_path="/assets/images/placeholderfavicon.png" alt="Game Jam screenshot" caption="This is a caption" %}
 
 {% include skills skills=page.skills %}
