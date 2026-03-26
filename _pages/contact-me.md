@@ -11,7 +11,7 @@ skills:
       icon: "fab fa-fw fa-discord"
       text: "Placeholder-Account-Name"
     - name: "Twitter/X"
-      icon: "fas fa-fw fa-twitter"
+      icon: "fas fa-fw fa-twitter-square"
       text: "Placeholder-Account-Name"
 ---
 
@@ -21,6 +21,6 @@ skills:
   height="800"
 %}
 
-Additionally, you can contact me through my accounts on social media:
+Additionally, you can contact me through my accounts on social media and other platforms:
 
 {% include skills skills=page.skills %}
