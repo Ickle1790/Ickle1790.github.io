@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/placeholder.png
-socials:
+skills:
     - name: "Unity"
       icon: "fab fa-fw fa-unity"
       text: ""
@@ -23,4 +23,4 @@ socials:
 
 Additionally, you can contact me through my accounts on social media:
 
-{% include socials socials=page.socials %}
+{% include skills skills=page.skills %}
