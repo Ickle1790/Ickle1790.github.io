@@ -13,6 +13,9 @@ skills:
     - name: "Twitter/X"
       icon: "fas fa-fw fa-twitter-square"
       text: "Placeholder-Account-Name"
+    - name: "Gmail"
+      icon: "fab fa-fw fa-gmail"
+      text: "Placeholder-Account-Name"
 ---
 
 {% include google-form
