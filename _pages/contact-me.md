@@ -14,7 +14,7 @@ skills:
       icon: "fas fa-fw fa-twitter-square"
       text: "Placeholder-Account-Name"
     - name: "Gmail"
-      icon: "fab fa-fw fa-gmail"
+      icon: "<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/03189c88-8a7d-4f91-8f69-7fd572926c0d" />"
       text: "Placeholder-Account-Name"
 ---
 
