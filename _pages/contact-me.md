@@ -14,7 +14,7 @@ skills:
       icon: "fab fa-fw fa-twitter-square"
       text: "Placeholder-Account-Name"
     - name: "Gmail"
-      icon: ""fab fa-fw fa-gmail
+      icon: "fab fa-fw fa-gmail"
       text: "Placeholder-Account-Name"
 ---
 
