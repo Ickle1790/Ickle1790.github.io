@@ -17,6 +17,7 @@ skills:
       icon: "fab fa-fw fa-gmail"
       text: "Placeholder-Account-Name"
 ---
+If there is anything you would wish to contact me for, please fill in the attached Google form and I shall respond as soon as I can.
 
 {% include google-form
   title="Contact Me"
