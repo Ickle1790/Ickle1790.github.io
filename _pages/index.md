@@ -23,14 +23,14 @@ feature_row:
     url: "https://ickle1790.github.io/about-me/"
     btn_label: "Go to About Me"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Homepage-Projects-Image-Bigger.jpg
+  - image_path: /assets/images/Homepage-Projects-Image.png
     alt: "My Projects"
     title: "My Projects"
     excerpt: "View previous games I have created."
     url: "https://ickle1790.github.io/projects/"
     btn_label: "Go to Projects"
     btn_class: "btn--primary"
-  - image_path: /assets/images/gmail-stock.png
+  - image_path: /assets/images/gmail-stock-smaller.jpg
     alt: "My Contact Information"
     title: "My Contact Information"
     excerpt: "Learn the best ways to reach out to me."
