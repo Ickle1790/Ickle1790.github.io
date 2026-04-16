@@ -42,7 +42,9 @@ Currently, I am situated in both Derry and Dungiven, and I am enrolled in an Und
 
 # Hobbies and Skills
 
-As one would expect from a game dev student, my biggest hobby is gaming. I enjoy almost any genre, from PvP games such as Overwatch, Halo or Dead by Daylight, platformers such as the Mario and Sonic series, and RPGs such as the Pokémon games or Dishonored 2. Enjoying a varied amount of genres allows me to have a greater insight into what makes each genre special, as well as their own strengths and weaknesses so that I can further my insight when developing my own games that may fit into these genres. I also enjoy watching movies and TV shows as well as comics and manga, usually sci-fi as I believe sci-fi often has some of the greatest themes to explore, which helps to enrichen my own narratives for develoiping games.
+As one would expect from a game dev student, my biggest hobby is gaming. I enjoy almost any genre, from PvP games such as Overwatch, Halo or Dead by Daylight, platformers such as the Mario and Sonic series, and RPGs such as the Pokémon games or Dishonored 2. Enjoying a varied amount of genres allows me to have a greater insight into what makes each genre special, as well as their own strengths and weaknesses so that I can further my insight when developing my own games that may fit into these genres.
+
+I also enjoy watching movies and TV shows as well as comics and manga, usually sci-fi as I believe sci-fi often has some of the greatest themes to explore, which helps to enrichen my own narratives for develoiping games.
 
 Some of my skills are listed down below.
 
