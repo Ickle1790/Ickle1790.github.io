@@ -13,24 +13,31 @@ intro:
   - excerpt: 'Below are all the projects I have worked on, from 2D games to physical board games:'
 feature_row:
   - image_path: /assets/images/derry-stock.jpg
-    alt: "About Me"
-    title: "About Me"
-    excerpt: "Read about my education, location, hobbies and more."
-    url: "https://ickle1790.github.io/about-me/"
-    btn_label: "Go to About Me"
+    alt: "Super Marine's Super Showdown!"
+    title: "Super Marine's Super Showdown!"
+    excerpt: "2D Game based on a super soldier fighting aliens."
+    url: ""
+    btn_label: "View this Game"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Homepage-Projects-Image-Bigger.jpg
-    alt: "My Projects"
-    title: "My Projects"
-    excerpt: "View previous games I have created."
-    url: "https://ickle1790.github.io/projects/"
+  - image_path: /assets/images/derry-stock.jpg
+    alt: "Maritime Madness!"
+    title: "Maritime Madness!"
+    excerpt: "Pirate-themed multiplayer board gam.e"
+    url: ""
     btn_label: "Go to Projects"
     btn_class: "btn--primary"
-  - image_path: /assets/images/gmail-stock.png
-    alt: "My Contact Information"
-    title: "My Contact Information"
-    excerpt: "Learn the best ways to reach out to me."
-    url: "https://ickle1790.github.io/contact-me/"
+  - image_path: /assets/images/derry-stock.jpg
+    alt: "Untitled 3D Game"
+    title: "Untitled 3D Game"
+    excerpt: "3D Game designed as a test for greyboxing."
+    url: ""
+    btn_label: "Go to Contact Me"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/derry-stock.jpg
+    alt: "Monsters and Rangers"
+    title: "Monsters and Rangers"
+    excerpt: "2D monster taming game created in a group project."
+    url: ""
     btn_label: "Go to Contact Me"
     btn_class: "btn--primary"
 ---
