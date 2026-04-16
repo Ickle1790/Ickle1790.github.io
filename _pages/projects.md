@@ -1,11 +1,11 @@
 ---
-title: "Home Page"
+title: "Projects"
 layout: splash
 permalink: /projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/projects-background.jpg
+  overlay_image: /assets/images/projects-background.png
 
 
 excerpt: "View previous games I have created."
