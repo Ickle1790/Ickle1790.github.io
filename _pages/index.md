@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/placeholderfavicon.png
     alt: "About Me"
     title: "About Me"
-    excerpt: "Read about my education, location and more."
+    excerpt: "Read about my education, location, hobbies and more."
     url: "https://ickle1790.github.io/about-me/"
     btn_label: "Go to About Me"
     btn_class: "btn--primary"
