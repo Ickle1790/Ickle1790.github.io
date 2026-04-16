@@ -31,8 +31,4 @@ I went to secondary school at St. Brigid's College in Carnhill, Derry, where I t
 
 {% include figure image_path="/assets/images/stbrigids.png" alt="St. Brigid's, Derry" caption="St. Brigid's, Derry - You can view the grades I received at St. Brigid's, as well as my grades at the Ulster University, by clicking "Download CV" at the top of this page." %}
 
-Currently, I am based in both Derry and Dungiven, with me attending the Ulster University on the Derry/Londonderry campus studying a games design course titled Games Design and Development BSc (Hons). I am taking an Undergraduate course, and am currently in my first year on the course, having already completed my CRE132, CRE133 and CRE134 modules and currently undergoing my CRE135 and CRE136 modules.
-
-{% include figure image_path="/assets/images/magee.jpg" alt="The Magee Campus for Ulster University" %}
-
 {% include skills skills=page.skills %}
