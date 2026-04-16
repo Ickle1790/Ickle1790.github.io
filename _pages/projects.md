@@ -24,21 +24,21 @@ feature_row:
     title: "Maritime Madness!"
     excerpt: "Pirate-themed multiplayer board gam.e"
     url: ""
-    btn_label: "Go to Projects"
+    btn_label: "View this Game"
     btn_class: "btn--primary"
   - image_path: /assets/images/derry-stock.jpg
     alt: "Untitled 3D Game"
     title: "Untitled 3D Game"
     excerpt: "3D Game designed as a test for greyboxing."
     url: ""
-    btn_label: "Go to Contact Me"
+    btn_label: "View this Game"
     btn_class: "btn--primary"
   - image_path: /assets/images/derry-stock.jpg
     alt: "Monsters and Rangers"
     title: "Monsters and Rangers"
     excerpt: "2D monster taming game created in a group project."
     url: ""
-    btn_label: "Go to Contact Me"
+    btn_label: "View this Game"
     btn_class: "btn--primary"
 ---
 
