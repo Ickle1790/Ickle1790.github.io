@@ -10,6 +10,7 @@ header:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1l48eZ6xF8KAGYPqtkQres4fKlwaRZx-y/preview"
       target: "_blank"
+      
 skills:
     - name: "Unity"
       icon: "fab fa-fw fa-unity"
@@ -21,6 +22,7 @@ skills:
       badges: ["Game Mechanics", "Levels", "UI"]
       text: "Designed game mechanics, levels, and player feedback loops."
       level_label: "Beginner"
+      
 ---
 
 # Education
