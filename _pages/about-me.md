@@ -29,6 +29,6 @@ skills:
 
 I went to secondary school at St. Brigid's College in Carnhill, Derry, where I took a shine to computers and fully realised I would wish to move to games design as a career, going on to study GCSE and A-Level ICT and Digital Technology alongside other subjects such as English and History to experience my understanding of storytelling and general historical knowledge for greater appreciation of how to create a compelling story and game.
 
-{% include figure image_path="/assets/images/stbrigids.png" alt="St. Brigid's, Derry" caption="St. Brigid's, Derry - You can view the grades I received at St. Brigid's, as well as my grades at the Ulster University, by clicking "Download CV" at the top of this page." %}
+{% include figure image_path="/assets/images/stbrigids.png" alt="St. Brigid's, Derry" caption="St. Brigid's, Derry - You can view the grades I received at St. Brigid's, as well as my grades at the Ulster University, by clicking Download CV at the top of this page." %}
 
 {% include skills skills=page.skills %}
