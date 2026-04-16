@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/index-background.jpg
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1I7Hvu_ZIAXsTJ6i5KnKicptkYnmrgoqX/preview"
+      url: "https://drive.google.com/file/d/1l48eZ6xF8KAGYPqtkQres4fKlwaRZx-y/preview"
       target: "_blank"
 
 
