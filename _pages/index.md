@@ -14,7 +14,7 @@ header:
 
 excerpt: "The gateway to all other pages"
 intro: 
-  - excerpt: 'In this site, you may read about:'
+  - excerpt: 'Welcome to my portfolio! In this site, you may read about:'
 feature_row:
   - image_path: /assets/images/placeholderfavicon.png
     alt: "About Me"
