@@ -23,7 +23,7 @@ feature_row:
     url: "https://ickle1790.github.io/about-me/"
     btn_label: "Go to About Me"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Homepage-Projects-Image.png
+  - image_path: /assets/images/Homepage-Projects-Image-Bigger.jpg
     alt: "My Projects"
     title: "My Projects"
     excerpt: "View previous games I have created."
