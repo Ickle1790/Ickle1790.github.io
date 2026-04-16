@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/placeholder.png
+  overlay_image: /assets/images/index-background.jpg
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1I7Hvu_ZIAXsTJ6i5KnKicptkYnmrgoqX/preview"
