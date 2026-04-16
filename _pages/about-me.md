@@ -23,7 +23,7 @@ skills:
       text: "Designed game mechanics, levels, and player feedback loops."
       level_label: "Beginner"
     - name: "Aseprite"
-      icon: "fab fa-solid fa-paintbrush"
+      icon: "fab fa-fw fa-paintbrush"
       badges: ["2D Spritework", "Animation"]
       text: Made sprites and animations for two separate games, accomodating for two different artstyles
       level_label: "Beginner"
