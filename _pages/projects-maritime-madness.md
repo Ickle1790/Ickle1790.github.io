@@ -1,5 +1,5 @@
 ---
-title: "Capstone"
+title: "Maritime Madness"
 layout: single
 permalink: /projects/maritime-madness/
 sidebar:
