@@ -25,7 +25,6 @@ feature_row:
     url: "https://ickle1790.github.io/"
     btn_label: "View this Game"
     btn_class: "btn--primary"
-feature_row:
   - image_path: /assets/images/3dgame1.jpg
     alt: "Untitled 3D Game"
     title: "Untitled 3D Game"
@@ -43,7 +42,5 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
 
 {% include feature_row %}
