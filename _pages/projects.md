@@ -15,7 +15,7 @@ feature_row:
     alt: "Super Marine's Super Showdown!"
     title: "Super Marine's Super Showdown!"
     excerpt: "2D Game based on a super soldier fighting aliens."
-    url: "https://ickle1790.github.io/projects-supermarine/"
+    url: "https://ickle1790.github.io/supermarine/"
     btn_label: "View this Game"
     btn_class: "btn--primary"
   - image_path: /assets/images/maritimemadness1.jpg
