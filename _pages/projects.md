@@ -12,7 +12,7 @@ sidebar:
   - projects
 ---
 
-lalalalala
+Welcome to the projects page. Here you can view the games I have worked on, including 2D games, 3D games and board games.
 
 {% include feature_row id="intro" type="center" %}
 
