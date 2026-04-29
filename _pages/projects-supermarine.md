@@ -1,7 +1,7 @@
 ---
 title: "Project: Super Marine's Super Showdown!"
 layout: single
-permalink: /projects/supermarine/
+permalink: /supermarine/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
