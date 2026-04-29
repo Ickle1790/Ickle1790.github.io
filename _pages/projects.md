@@ -35,7 +35,7 @@ feature_row:
   - image_path: /assets/images/monsters1.jpg
     alt: "Monsters and Rangers"
     title: "Monsters and Rangers"
-    excerpt: "2D monster taming game created in a group project."
+    excerpt: "2D monster-battling game created in a group project."
     url: "https://ickle1790.github.io/"
     btn_label: "View this Game"
     btn_class: "btn--primary"
