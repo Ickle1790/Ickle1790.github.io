@@ -25,6 +25,7 @@ feature_row:
     url: "https://ickle1790.github.io/"
     btn_label: "View this Game"
     btn_class: "btn--primary"
+feature_row:
   - image_path: /assets/images/derry-stock.jpg
     alt: "Untitled 3D Game"
     title: "Untitled 3D Game"
