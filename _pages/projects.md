@@ -29,7 +29,7 @@ feature_row:
     alt: "Untitled 3D Game"
     title: "Untitled 3D Game"
     excerpt: "3D Game designed as a test for greyboxing."
-    url: "https://ickle1790.github.io/"
+    url: "https://ickle1790.github.io/untitled-3d-game/"
     btn_label: "View this Game"
     btn_class: "btn--primary"
   - image_path: /assets/images/monsters1.jpg
