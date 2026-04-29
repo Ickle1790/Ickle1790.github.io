@@ -5,7 +5,7 @@ permalink: /contact-me/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/contactme.jpg
+  overlay_image: /assets/images/contactme2.jpg
 skills:
     - name: "Discord"
       icon: "fab fa-fw fa-discord"
