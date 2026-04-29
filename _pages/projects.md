@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-layout: single
+layout: splash
 permalink: /projects/
 header:
   overlay_color: "#000"
@@ -10,9 +10,40 @@ sidebar:
   title: "Projects"
   nav:
   - projects
----
 
-Welcome to the projects page. Here you can view the games I have worked on, including 2D games, 3D games and board games.
+excerpt: "View previous games I have created."
+intro: 
+  - excerpt: 'Below are all the projects I have worked on, from 2D games to physical board games:'
+feature_row:
+  - image_path: /assets/images/derry-stock.jpg
+    alt: "Super Marine's Super Showdown!"
+    title: "Super Marine's Super Showdown!"
+    excerpt: "2D Game based on a super soldier fighting aliens."
+    url: ""
+    btn_label: "View this Game"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/derry-stock.jpg
+    alt: "Maritime Madness!"
+    title: "Maritime Madness!"
+    excerpt: "Pirate-themed multiplayer board game"
+    url: ""
+    btn_label: "View this Game"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/derry-stock.jpg
+    alt: "Untitled 3D Game"
+    title: "Untitled 3D Game"
+    excerpt: "3D Game designed as a test for greyboxing."
+    url: ""
+    btn_label: "View this Game"
+    btn_class: "btn--primary"
+- image_path: /assets/images/derry-stock.jpg
+  alt: "Monsters and Rangers"
+  title: "Monsters and Rangers"
+  excerpt: "2D monster taming game created in a group project."
+  url: ""
+  btn_label: "View this Game"
+  btn_class: "btn--primary"
+---
 
 {% include feature_row id="intro" type="center" %}
 
