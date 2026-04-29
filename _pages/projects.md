@@ -19,8 +19,8 @@ feature_row:
     btn_label: "View this Game"
     btn_class: "btn--primary"
   - image_path: /assets/images/maritimemadness1.jpg
-    alt: "Maritime Madness!"
-    title: "Maritime Madness!"
+    alt: "Maritime Madness"
+    title: "Maritime Madness"
     excerpt: "Pirate-themed multiplayer board game"
     url: "https://ickle1790.github.io/"
     btn_label: "View this Game"
