@@ -1,7 +1,7 @@
 ---
 title: "Capstone"
 layout: single
-permalink: /projects/capstone/
+permalink: /projects/maritime-madness/
 sidebar:
   title: "Projects"
   nav:
