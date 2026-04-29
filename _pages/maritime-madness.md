@@ -38,8 +38,8 @@ gallery_maritime2:
 
 YAPYAPYAPYAP Paragraph about rules and premise etc
 
-{% include gallery id="gallery_marine" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_maritime" layout="third" thumb_height="180px" %}
 
 YAYAYAYAYAYA Paragraph about the physical assets and how i created the game
 
-{% include gallery id="gallery_marine2" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_maritime2" layout="third" thumb_height="180px" %}
