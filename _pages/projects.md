@@ -22,7 +22,7 @@ feature_row:
     alt: "Maritime Madness"
     title: "Maritime Madness"
     excerpt: "Pirate-themed multiplayer board game"
-    url: "https://ickle1790.github.io/"
+    url: "https://ickle1790.github.io/maritime-madness/"
     btn_label: "View this Game"
     btn_class: "btn--primary"
   - image_path: /assets/images/3dgame1.jpg
