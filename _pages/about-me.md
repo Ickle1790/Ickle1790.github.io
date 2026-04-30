@@ -14,7 +14,7 @@ header:
 skills:
     - name: "Unity"
       icon: "fab fa-fw fa-unity"
-      badges: ["C#", "Game Dev"]
+      badges: ["C#", "Game Dev", "ProBuilder"]
       text: "Built multiple game prototypes; currently working on another within a group."
       level_label: "Beginner"
     - name: "Game Design"
