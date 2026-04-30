@@ -5,12 +5,12 @@ permalink: /monsters-and-rangers/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/projects-background.png
+  overlay_image: /assets/images/monsters1.jpg
   actions:
     - label: "Return to Projects"
       url: "https://ickle1790.github.io/projects/"
       target: "_blank"
-excerpt: Reach the treasure before your friends in this tabletop game!
+excerpt: Battle alongside your Moustatic to make your way towards graduation!
 
 gallery_monsters:
   - url: /assets/images/placeholder.png
