@@ -5,7 +5,7 @@ permalink: /untitled-3d-game/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/projects-background.png
+  overlay_image: /assets/images/3dgame1.jpg
   actions:
     - label: "Return to Projects"
       url: "https://ickle1790.github.io/projects/"
