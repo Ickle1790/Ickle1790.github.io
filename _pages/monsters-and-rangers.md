@@ -38,7 +38,7 @@ gallery_monsters2:
     
 ---
 
-{% include quote text="This was a fairly fun game to try out, I had a blast!" author="Fellow Games Design and Development Student" %}
+{% include quote text="Solid game, loved the world and the visuals were great." author="Fellow Games Design and Development Student" %}
 
 YAPYAPYAPYAP Paragraph about objectives, different enemies wtc
 
