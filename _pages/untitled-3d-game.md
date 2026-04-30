@@ -28,8 +28,8 @@ gallery_3d:
 
 {% include quote text="This is a very good effort... you have demonstrated capability in creating a good interactive, grey box game scene for testing visual, architectural and interactive ideas." author="Lecturer's Feedback" %}
 
-YAPYAPYAPYAP Just how its a sandbox, mention keys
+This untitled 3D game was created by me as a way to test out my greyboxing skills for future games. I decided the aesthetic would be medieval, with the player character being a knight. There is no real objective, but you can make you way to the castle at the top of the hilland collect keys to open several gates on your journey.
 
 {% include gallery id="gallery_3d" layout="third" thumb_height="180px" %}
 
-YAPYAPYAPYAP just mention how I made it with unity and probuilder
+This game was created solely by me for a project for my Games Design and Development course. It was made in Unity with coding in Visual Studio Code, with the 3D assets being either created internally in Unity via ProBuilder, or sourced from the Unity store alongside textures.
