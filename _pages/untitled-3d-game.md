@@ -26,7 +26,7 @@ gallery_3d:
 
 ---
 
-{% include quote text="This was a fairly fun game to try out, I had a blast!" author="Fellow Games Design and Development Student" %}
+{% include quote text="This is a very good effort... you have demonstrated capability in creating a good interactive, grey box game scene for testing visual, architectural and interactive ideas." author="Lecturer's Feedback" %}
 
 YAPYAPYAPYAP Just how its a sandbox, mention keys
 
