@@ -6,6 +6,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/projects-background.png
+  actions:
+    - label: "Return to Projects"
+      url: "https://ickle1790.github.io/projects/"
+      target: "_blank"
 excerpt: Reach the treasure before your friends in this tabletop game!
 
 gallery_maritime:
