@@ -36,7 +36,7 @@ feature_row:
     alt: "Monsters and Rangers"
     title: "Monsters and Rangers"
     excerpt: "2D monster-battling game created in a group project."
-    url: "https://ickle1790.github.io/"
+    url: "https://ickle1790.github.io/monsters-and-rangers/"
     btn_label: "View this Game"
     btn_class: "btn--primary"
 ---
