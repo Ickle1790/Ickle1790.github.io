@@ -10,7 +10,7 @@ header:
     - label: "Return to Projects"
       url: "https://ickle1790.github.io/projects/"
       target: "_blank"
-excerpt: Reach the treasure before your friends in this tabletop game!
+excerpt: A simple game with a knight on his journey to the castle
 
 gallery_3d:
   - url: /assets/images/placeholder.png
