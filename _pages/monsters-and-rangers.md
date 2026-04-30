@@ -13,28 +13,58 @@ header:
 excerpt: Battle alongside your Moustatic to make your way towards graduation!
 
 gallery_monsters:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /assets/images/projectsmonsters1.png
+    image_path: /assets/images/projectsmonsters1.png
+    alt: "Speaking to your mother to kickstart your journey"
+    title: "Speaking to your mother to kickstart your journey"
+    caption: "Speaking to your mother to kickstart your journey"
+  - url: /assets/images/projectsmonsters2.png
+    image_path: /assets/images/projectsmonsters2.png
+    alt: "The village your character calls home"
+    title: "The village your character calls home"
+    caption: "The village your character calls home"
+  - url: /assets/images/projectsmonsters3.png
+    image_path: /assets/images/projectsmonsters3.png
+    alt: "A potion, useful for future sidequests"
+    title: "A potion, useful for future sidequests"
+    caption: "A potion, useful for future sidequests"
+  - url: /assets/images/projectsmonsters5.png
+    image_path: /assets/images/projectsmonsters5.png
+    alt: "An NPC who gives you a sidequest when spoken to"
+    title: "An NPC who gives you a sidequest when spoken to"
+    caption: "An NPC who gives you a sidequest when spoken to"
+  - url: /assets/images/projectsmonsters6.png
+    image_path: /assets/images/projectsmonsters6.png
+    alt: "The forest, one of the many varied areas within the game"
+    title: "The forest, one of the many varied areas within the game"
+    caption: "The forest, one of the many varied areas within the game"
+  - url: /assets/images/projectsmonsters9.png
+    image_path: /assets/images/projectsmonsters9.png
+    alt: "The city you must reach to attend graduation"
+    title: "The city you must reach to attend graduation"
+    caption: "The city you must reach to attend graduation"
 
 gallery_monsters2:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /assets/images/projectsmonsters11.png
+    image_path: /assets/images/projectsmonsters11.png
+    alt: "Combat! Moustatic fires thunderbolts at the enemy Garlicks"
+    title: "Combat! Moustatic fires thunderbolts at the enemy Garlicks"
+    caption: "Combat! Moustatic fires thunderbolts at the enemy Garlicks"
+  - url: /assets/images/projectsmonsters7.png
+    image_path: /assets/images/projectsmonsters7.png
+    alt: "A hidden boss fight at the end of the forest, guarding a present for a sidequest"
+    title: "A hidden boss at the end of the forest, guarding a present for a sidequest"
+    caption: "A hidden boss at the end of the forest, guarding a present for a sidequest"
+  - url: /assets/images/projectsmonsters8.png
+    image_path: /assets/images/projectsmonsters8.png
+    alt: "The desert, another biome where evil Fieyery lurk"
+    title: "The desert, another biome where evil Fieyery lurk"
+    caption: "The desert, another biome where evil Fieyery lurk"
+  - url: /assets/images/projectsmonsters10.png
+    image_path: /assets/images/projectsmonsters10.png
+    alt: "The final boss - a Monster is ruining your graduation ceremony!"
+    title: "The final boss - a Monster is ruining your graduation ceremony!"
+    caption: "The final boss - a Monster is ruining your graduation ceremony!"
     
 ---
 
