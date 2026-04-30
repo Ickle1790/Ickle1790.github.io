@@ -40,7 +40,6 @@ gallery_maritime2:
 
 {% include quote text="This was a fairly fun game to try out, I had a blast!" author="Fellow Games Design and Development Student" %}
 
-YAPYAPYAPYAP Paragraph about rules and premise etc
 Maritime Madness is a multiplayer tabletop board game (ideally 3-4 players) where you play as pirates, navigating their ships through the ocean to reach an island of treasure by rolling dice, and moving across the board based on the number shown.
 Certain tiles on the board are different than the rest, as when they are activated, unique effects come into play, from receiving coins to having to move back down the board to give your opponents an advantage.
 
