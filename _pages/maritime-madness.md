@@ -13,28 +13,58 @@ header:
 excerpt: Reach the treasure before your friends in this tabletop game!
 
 gallery_maritime:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /assets/images/projectsmaritime2.jpg
+    image_path: /assets/images/projectsmaritime2.jpg
+    alt: "Players in their starting positions"
+    title: "Players in their starting positions"
+    caption: "Players in their starting positions"
+  - url: /assets/images/projectsmaritime3.jpg
+    image_path: /assets/images/projectsmaritime3.jpg
+    alt: "A player using the shop feature with the Marauder's Merchant card"
+    title: "A player using the shop feature with the Marauder's Merchant card"
+    caption: "A player using the shop feature with the Marauder's Merchant card"
+  - url: /assets/images/projectsmaritime4.jpg
+    image_path: /assets/images/projectsmaritime4.jpg
+    alt: "A player getting ready to move their piece across the board"
+    title: "A player getting ready to move their piece across the board"
+    caption: "A player getting ready to move their piece across the board"
+  - url: /assets/images/projectsmaritime6.jpg
+    image_path: /assets/images/projectsmaritime6.jpg
+    alt: "A player rolling the dice to determine how far they can move"
+    title: "A player rolling the dice to determine how far they can move"
+    caption: "A player rolling the dice to determine how far they can move"
 
 gallery_maritime2:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /assets/images/projectsmaritime7.png
+    image_path: /assets/images/projectsmaritime7.png
+    alt: "The back of the primary board"
+    title: "The back of the primary board"
+    caption: "The back of the primary board"
+  - url: /assets/images/projectsmaritime8.png
+    image_path: /assets/images/projectsmaritime8.png
+    alt: "The primary board where the gameplay occurs"
+    title: "The primary board where the gameplay occurs"
+    caption: "The primary board where the gameplay occurs"
+  - url: /assets/images/projectsmaritime9.png
+    image_path: /assets/images/projectsmaritime9.png
+    alt: "A Marauder's Merchant card which layers can purchase upgrades from"
+    title: "A Marauder's Merchant card which layers can purchase upgrades from"
+    caption: "A Marauder's Merchant card which layers can purchase upgrades from"
+  - url: /assets/images/projectsmaritime10.png
+    image_path: /assets/images/projectsmaritime10.png
+    alt: "The Whirlpool board, where trapped players are sent to struggle in until they land on Escape!"
+    title: "The Whirlpool board, where trapped players are sent to struggle in until they land on Escape!"
+    caption: "The Whirlpool board, where trapped players are sent to struggle in until they land on Escape!"
+  - url: /assets/images/projectsmaritime11.png
+    image_path: /assets/images/projectsmaritime11.png
+    alt: "A Plunder Party card, which activates a random effect when collected"
+    title: "A Plunder Party card, which activates a random effect when collected"
+    caption: "A Plunder Party card, which activates a random effect when collected"
+  - url: /assets/images/projectsmaritime12.png
+    image_path: /assets/images/projectsmaritime12.png
+    alt: "A page from the rule sheet"
+    title: "A page from the rule sheet"
+    caption: "A page from the rule sheet"
     
 ---
 
