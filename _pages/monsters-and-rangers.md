@@ -40,10 +40,11 @@ gallery_monsters2:
 
 {% include quote text="Solid game, loved the world and the visuals were great." author="Fellow Games Design and Development Student" %}
 
-YAPYAPYAPYAP Paragraph about objectives, different enemies wtc
+"Monsters and Rangers" is a top-down 2D game, where you control a Ranger with his Monster named "Moustatic" on his way to graduation.
+On your way to your graduation ceremony, you can uncover various biomes such as a desert or forest, help NPCs with quests and battle various species of Monster such as Fieyery or Markshark as you make your way to graduation - and the boss fight waiting for you at the end!
 
 {% include gallery id="gallery_maritime" layout="third" thumb_height="180px" %}
 
-YAYAYAYAYAYA Paragraph about how we made the game in a group
+This game was created by me for a project in my Games Design and Development course, but unlike the previous projects listed, this was created in a group with 3 other people; I assisted with the artistic creation and coding certain aspects such as quests and dialogue, while others did the debugging and primary coding. The assets I created were made in Aseprite and the code I had written was created in Visual Studio Code, and we used Unity to build the game.
 
 {% include gallery id="gallery_maritime2" layout="third" thumb_height="180px" %}
