@@ -77,6 +77,6 @@ On your way to your graduation ceremony, you can uncover various biomes such as 
 
 This game was created by me for a project in my Games Design and Development course, but unlike the previous projects listed, this was created in a group with 3 other people; I assisted with the artistic creation and coding certain aspects such as quests and dialogue, while others did the debugging and primary coding. The assets I created were made in Aseprite and the code I had written was created in Visual Studio Code, and we used Unity to build the game.
 
-{% include gallery id="gallery_monsters" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_monsters2" layout="third" thumb_height="180px" %}
 
 {% include video id="mxyHRmJ05bI" provider="youtube" %}
