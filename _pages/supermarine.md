@@ -13,28 +13,48 @@ header:
 excerpt: Blast alien enemies on a foreign world as the Super Marine!
 
 gallery_marine:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /assets/images/projectsmarine1.png
+    image_path: /assets/images/projectsmarine1.png
+    alt: "Super Marine before an alien tentacle and ammo boxes"
+    title: "Super Marine before an alien tentacle and ammo boxes"
+    caption: "Super Marine before an alien tentacle and ammo boxes"
+  - url: /assets/images/projectsmarine4.png
+    image_path: /assets/images/projectsmarine4.png
+    alt: "A platforming challenge where you must push boxes to the cliff to progress"
+    title: "A platforming challenge where you must push boxes to the cliff to progress"
+    caption: "A platforming challenge where you must push boxes to the cliff to progress"
+  - url: /assets/images/projectsmarine5.png
+    image_path: /assets/images/projectsmarine5.png
+    alt: "The Super Marine in front of a health pickup, which heals the player"
+    title: "The Super Marine in front of a health pickup, which heals the player"
+    caption: "The Super Marine in front of a health pickup, which heals the player"
+  - url: /assets/images/projectsmarine8.png
+    image_path: /assets/images/projectsmarine8.png
+    alt: "Another enemy type, with the player's health bar partially depleted"
+    title: "Another enemy type, with the player's health bar partially depleted"
+    caption: "Another enemy type, with the player's health bar partially depleted"
 
 gallery_marine2:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /assets/images/projectsmarine10.png
+    image_path: /assets/images/projectsmarine10.png
+    alt: "The second level, in a dark cave with lighting effects"
+    title: "The second level, in a dark cave with lighting effects"
+    caption: "The second level, in a dark cave with lighting effects"
+  - url: /assets/images/projectsmarine11.png
+    image_path: /assets/images/projectsmarine11.png
+    alt: "The Super Marine before a breakable wall he can shoot down"
+    title: "The Super Marine before a breakable wall he can shoot down"
+    caption: "The Super Marine before a breakable wall he can shoot down"
+  - url: /assets/images/projectsmarine12.png
+    image_path: /assets/images/projectsmarine12.png
+    alt: "Another enemy, guarding a key which unlocks the gate to the boss fight"
+    title: "Another enemy, guarding a key which unlocks the gate to the boss fight"
+    caption: "Another enemy, guarding a key which unlocks the gate to the boss fight"
+  - url: /assets/images/projectsmarine13.png
+    image_path: /assets/images/projectsmarine13.png
+    alt: "The boss fight of the game!"
+    title: "The boss fight of the game!"
+    caption: "The boss fight of the game!"
 
 ---
 
