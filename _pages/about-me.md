@@ -40,12 +40,14 @@ Currently, I am situated in both Derry and Dungiven, and I am enrolled in an Und
 
 {% include figure image_path="/assets/images/magee.jpg" alt="The Magee Campus for the Ulster University" caption="The Derry/Londonderry Campus." %}
 
-# Hobbies and Skills
+# Hobbies
 
 As one would expect from a game dev student, my biggest hobby is gaming. I enjoy almost any genre, from PvP games such as Overwatch, Halo or Dead by Daylight, platformers such as the Mario and Sonic series, and RPGs such as the Pokémon games or Dishonored 2. Enjoying a varied amount of genres allows me to have a greater insight into what makes each genre special, as well as their own strengths and weaknesses so that I can further my insight when developing my own games that may fit into these genres.
 
 I also enjoy watching movies and TV shows as well as comics and manga, usually sci-fi as I believe sci-fi often has some of the greatest themes to explore, which helps to enrichen my own narratives for develoiping games.
 
-Some of my skills are listed down below.
+# Skills
+
+Some of my skills in relation to games design are listed down below.
 
 {% include skills skills=page.skills %}
